@@ -1,0 +1,78 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&family=Pontano+Sans&family=Roboto&display=swap');
+
+html, #root {
+    background-color: #fff;
+    margin:0;
+    padding:0;
+    max-height: 100%;
+    font-size: 1em;
+    line-height: 1.5;
+    color: #000000;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+}
+
+
+.rdrMonthName {
+    color: #454F5B;
+}
+
+.rdrWeekDay{
+    color: #454F5B;
+}
+
+.hoverTxtPopover {
+    color: #000000
+}
+
+.hoverTxtPopover:hover {
+    color: #0052CC;
+}
+
+ul.navListerSub{
+    display: inline;
+    list-style: none;
+}
+
+ul.navListerSub li {
+    display: inline;
+}
+
+.loginsignup {
+    border: 1px solid #15141b;
+    background-color: #15141b;
+    box-shadow: none;
+    border-radius: 4;
+    color: #15141b;
+}
+
+.loginsignup:hover {
+    color: #fff;
+    border: 1px solid #15141b;
+    background-color: #15141b;
+}
+
+.rs-input {
+    border: 1px solid #ceced4
+}
+
+.rs-picker-default .rs-picker-toggle {
+    border: 1px solid #ceced4;
+    border-radius: 6px;
+}
+
+.rs-picker-toggle {
+    border: 1px solid #ceced4;
+    border-radius: 6px;
+}
+
+.rs-checkbox-wrapper {
+    background: #fff;
+}
+/* color: #8d9091, */
+/* #F5F5F5 */
+/* #15141b */
+/* #0052CC */
